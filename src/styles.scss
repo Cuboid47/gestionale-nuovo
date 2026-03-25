@@ -1,0 +1,18 @@
+@use "primeicons/primeicons.css";
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+:root {
+  --color-background: #f6f6f6;
+  --color-card-border: #f46d34;
+  --color-secondary-text: #6b7280;
+}
+
+html,
+body {
+  background: white;
+  color: #111111;
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+}
+
+
